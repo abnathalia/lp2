@@ -1,0 +1,8 @@
+A palavra-chave new é utilizada, basicamente, para instanciar um objeto na memória.
+Quando utilizada em um aplicativo ela executa três ações:
+1ª: instanciar o objeto na memória;
+2ª: inicializar as variáveis de instância;
+3ª: invocar o construtor.
+
+
+
